@@ -1,0 +1,5 @@
+{
+  "name": "AI Travel Planner",
+  "description": "A modern, responsive AI Travel Planner web application that helps users plan their trips with personalized recommendations for destinations, itineraries, and budgets, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
